@@ -3,7 +3,7 @@ import './App.scss';
 import { Button, Icon, _ } from 'oopenui_core';
 
 export const App = () => {
-	const name = 'sami';
+	const name = 'samir';
 	return (
 		<div>
 			<h1>It is war!</h1>
